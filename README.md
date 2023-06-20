@@ -1,5 +1,5 @@
 <h1>Hi! I'm Levent Emre PAÇAL</h1>
-<h4>I live in Turkey and share the softwares I developed on Github. I have been interested in software and computers since the age of 13 and I have been developing myself. You can contact me at my e-mail address for your offers.</h4>
+<h4>I live in Turkey and share the software I have developed on Github. I have been interested in software and computers since my childhood and I have been developing myself. You can contact me at my e-mail address for your offers.</h4>
 
 - 📄 View my website [leventemre.com](https://leventemre.com)
 
